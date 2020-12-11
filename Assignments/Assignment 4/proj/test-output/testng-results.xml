@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+    <line>
+      <![CDATA[<img width='400' height='240' src = '/Users/yitongliu/eclipse-workspace/proj/Seleniumproj/My_Favorites/Login/login.png'/><br/>]]>
+    </line>
+    <line>
+      <![CDATA[testLoginNE: ]]>
+    </line>
+    <line>
+      <![CDATA[Expected: https://my.northeastern.edu]]>
+    </line>
+    <line>
+      <![CDATA[Actual: https://my.northeastern.edu/group/student]]>
+    </line>
+    <line>
+      <![CDATA[Fail/Pass: ]]>
+    </line>
+    <line>
+      <![CDATA[Pass]]>
+    </line>
+    <line>
+      <![CDATA[<img width='400' height='240' src = '/Users/yitongliu/eclipse-workspace/proj/Seleniumproj/My_Favorites/Add/Success.png'/><br/>]]>
+    </line>
+    <line>
+      <![CDATA[testAddFav: ]]>
+    </line>
+    <line>
+      <![CDATA[Expected: true]]>
+    </line>
+    <line>
+      <![CDATA[Actual: true]]>
+    </line>
+    <line>
+      <![CDATA[Fail/Pass: ]]>
+    </line>
+    <line>
+      <![CDATA[Pass]]>
+    </line>
+    <line>
+      <![CDATA[<img width='400' height='240' src = '/Users/yitongliu/eclipse-workspace/proj/Seleniumproj/bookstore/Logincart/login.png'/><br/>]]>
+    </line>
+    <line>
+      <![CDATA[testLogin: ]]>
+    </line>
+    <line>
+      <![CDATA[Expected: true]]>
+    </line>
+    <line>
+      <![CDATA[Actual: true]]>
+    </line>
+    <line>
+      <![CDATA[Fail/Pass: ]]>
+    </line>
+    <line>
+      <![CDATA[Pass]]>
+    </line>
+    <line>
+      <![CDATA[<img width='400' height='240' src = '/Users/yitongliu/eclipse-workspace/proj/Seleniumproj/bookstore/testcart/success.png'/><br/>]]>
+    </line>
+    <line>
+      <![CDATA[testCart: ]]>
+    </line>
+    <line>
+      <![CDATA[Expected: Shopping Cart | The Northeastern University Bookstore]]>
+    </line>
+    <line>
+      <![CDATA[Actual: Shopping Cart | The Northeastern University Bookstore]]>
+    </line>
+    <line>
+      <![CDATA[Fail/Pass: ]]>
+    </line>
+    <line>
+      <![CDATA[Pass]]>
+    </line>
+    <line>
+      <![CDATA[<img width='400' height='240' src = '/Users/yitongliu/eclipse-workspace/proj/Seleniumproj/course/Login/login.png'/><br/>]]>
+    </line>
+    <line>
+      <![CDATA[testLoginNE: ]]>
+    </line>
+    <line>
+      <![CDATA[Expected: https://my.northeastern.edu]]>
+    </line>
+    <line>
+      <![CDATA[Actual: https://my.northeastern.edu/group/student]]>
+    </line>
+    <line>
+      <![CDATA[Fail/Pass: ]]>
+    </line>
+    <line>
+      <![CDATA[Pass]]>
+    </line>
+    <line>
+      <![CDATA[<img width='400' height='240' src = '/Users/yitongliu/eclipse-workspace/proj/Seleniumproj/course/sub.png'/><br/>]]>
+    </line>
+    <line>
+      <![CDATA[testCourse]]>
+    </line>
+    <line>
+      <![CDATA[Expected: Spring 2021 Semester]]>
+    </line>
+    <line>
+      <![CDATA[Actual: Spring 2021 Semester]]>
+    </line>
+    <line>
+      <![CDATA[Pass/Fail: ]]>
+    </line>
+    <line>
+      <![CDATA[Pass]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="136275" started-at="2020-11-19T11:45:56 EST" finished-at="2020-11-19T11:48:13 EST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="136275" started-at="2020-11-19T11:45:56 EST" finished-at="2020-11-19T11:48:13 EST">
+      <class name="com.org.learningMaven.Selenium4">
+        <test-method status="PASS" signature="loadProperties()[pri:0, instance:com.org.learningMaven.Selenium4@3aefe5e5]" name="loadProperties" is-config="true" duration-ms="10" started-at="2020-11-19T11:45:56 EST" finished-at="2020-11-19T11:45:56 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadProperties -->
+        <test-method status="PASS" signature="testLoginNE()[pri:1, instance:com.org.learningMaven.Selenium4@3aefe5e5]" name="testLoginNE" duration-ms="15081" started-at="2020-11-19T11:45:56 EST" finished-at="2020-11-19T11:46:12 EST">
+          <reporter-output>
+            <line>
+              <![CDATA[<img width='400' height='240' src = '/Users/yitongliu/eclipse-workspace/proj/Seleniumproj/My_Favorites/Login/login.png'/><br/>]]>
+            </line>
+            <line>
+              <![CDATA[testLoginNE: ]]>
+            </line>
+            <line>
+              <![CDATA[Expected: https://my.northeastern.edu]]>
+            </line>
+            <line>
+              <![CDATA[Actual: https://my.northeastern.edu/group/student]]>
+            </line>
+            <line>
+              <![CDATA[Fail/Pass: ]]>
+            </line>
+            <line>
+              <![CDATA[Pass]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testLoginNE -->
+        <test-method status="PASS" signature="testAddFav()[pri:2, instance:com.org.learningMaven.Selenium4@3aefe5e5]" name="testAddFav" duration-ms="19965" started-at="2020-11-19T11:46:12 EST" finished-at="2020-11-19T11:46:32 EST">
+          <reporter-output>
+            <line>
+              <![CDATA[<img width='400' height='240' src = '/Users/yitongliu/eclipse-workspace/proj/Seleniumproj/My_Favorites/Add/Success.png'/><br/>]]>
+            </line>
+            <line>
+              <![CDATA[testAddFav: ]]>
+            </line>
+            <line>
+              <![CDATA[Expected: true]]>
+            </line>
+            <line>
+              <![CDATA[Actual: true]]>
+            </line>
+            <line>
+              <![CDATA[Fail/Pass: ]]>
+            </line>
+            <line>
+              <![CDATA[Pass]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testAddFav -->
+        <test-method status="PASS" signature="testLogin()[pri:3, instance:com.org.learningMaven.Selenium4@3aefe5e5]" name="testLogin" duration-ms="11659" started-at="2020-11-19T11:46:32 EST" finished-at="2020-11-19T11:46:43 EST">
+          <reporter-output>
+            <line>
+              <![CDATA[<img width='400' height='240' src = '/Users/yitongliu/eclipse-workspace/proj/Seleniumproj/bookstore/Logincart/login.png'/><br/>]]>
+            </line>
+            <line>
+              <![CDATA[testLogin: ]]>
+            </line>
+            <line>
+              <![CDATA[Expected: true]]>
+            </line>
+            <line>
+              <![CDATA[Actual: true]]>
+            </line>
+            <line>
+              <![CDATA[Fail/Pass: ]]>
+            </line>
+            <line>
+              <![CDATA[Pass]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method status="PASS" signature="testCart()[pri:4, instance:com.org.learningMaven.Selenium4@3aefe5e5]" name="testCart" duration-ms="39258" started-at="2020-11-19T11:46:43 EST" finished-at="2020-11-19T11:47:22 EST">
+          <reporter-output>
+            <line>
+              <![CDATA[<img width='400' height='240' src = '/Users/yitongliu/eclipse-workspace/proj/Seleniumproj/bookstore/testcart/success.png'/><br/>]]>
+            </line>
+            <line>
+              <![CDATA[testCart: ]]>
+            </line>
+            <line>
+              <![CDATA[Expected: Shopping Cart | The Northeastern University Bookstore]]>
+            </line>
+            <line>
+              <![CDATA[Actual: Shopping Cart | The Northeastern University Bookstore]]>
+            </line>
+            <line>
+              <![CDATA[Fail/Pass: ]]>
+            </line>
+            <line>
+              <![CDATA[Pass]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testCart -->
+        <test-method status="PASS" signature="testLoginNECourse()[pri:5, instance:com.org.learningMaven.Selenium4@3aefe5e5]" name="testLoginNECourse" duration-ms="16854" started-at="2020-11-19T11:47:22 EST" finished-at="2020-11-19T11:47:39 EST">
+          <reporter-output>
+            <line>
+              <![CDATA[<img width='400' height='240' src = '/Users/yitongliu/eclipse-workspace/proj/Seleniumproj/course/Login/login.png'/><br/>]]>
+            </line>
+            <line>
+              <![CDATA[testLoginNE: ]]>
+            </line>
+            <line>
+              <![CDATA[Expected: https://my.northeastern.edu]]>
+            </line>
+            <line>
+              <![CDATA[Actual: https://my.northeastern.edu/group/student]]>
+            </line>
+            <line>
+              <![CDATA[Fail/Pass: ]]>
+            </line>
+            <line>
+              <![CDATA[Pass]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testLoginNECourse -->
+        <test-method status="PASS" signature="testCourse()[pri:6, instance:com.org.learningMaven.Selenium4@3aefe5e5]" name="testCourse" duration-ms="33345" started-at="2020-11-19T11:47:39 EST" finished-at="2020-11-19T11:48:13 EST">
+          <reporter-output>
+            <line>
+              <![CDATA[<img width='400' height='240' src = '/Users/yitongliu/eclipse-workspace/proj/Seleniumproj/course/sub.png'/><br/>]]>
+            </line>
+            <line>
+              <![CDATA[testCourse]]>
+            </line>
+            <line>
+              <![CDATA[Expected: Spring 2021 Semester]]>
+            </line>
+            <line>
+              <![CDATA[Actual: Spring 2021 Semester]]>
+            </line>
+            <line>
+              <![CDATA[Pass/Fail: ]]>
+            </line>
+            <line>
+              <![CDATA[Pass]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testCourse -->
+      </class> <!-- com.org.learningMaven.Selenium4 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
